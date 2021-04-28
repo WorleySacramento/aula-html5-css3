@@ -1,0 +1,40 @@
+
+body{
+    background: green;
+    color: yellow;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+
+h1{
+    color:white ;
+    font-family: monospace;
+}
+
+h2{
+    font-family:-'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(206, 243, 245);
+
+}
+
+p{
+    font-size: 18px;
+
+}
+
+footer{
+    margin-bottom: 20px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+}
+
+.logo-contato{
+
+}
